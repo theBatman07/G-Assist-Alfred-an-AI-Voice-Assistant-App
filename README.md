@@ -18,7 +18,7 @@ G-Assist (Alfred) is an advanced AI voice assistant powered by OpenAI's cutting-
 
 bashCopy code
 
-`git clone https://github.com/yourusername/alfred.git`
+`https://github.com/theBatman07/G-Assist-Alfred-an-AI-Voice-Assistant-App.git`
 
 2. Install the required dependencies:
 
